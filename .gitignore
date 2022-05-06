@@ -1,0 +1,23 @@
+# bloop and metals
+.bloop
+.bsp
+
+# metals
+project/metals.sbt
+.metals
+
+# vs code
+.vscode
+
+# sbt
+project/project/
+project/target/
+target/
+
+# other?
+.history
+.scala_dependencies
+.cache-main
+
+#general
+*.class
